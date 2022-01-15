@@ -24,6 +24,6 @@ I am a codderr and here I am doing lots of cool projects.
   <a href="https://codeforces.com/profile/rachit96" class="pics"><img src="pics/codeforces.svg" height="36vh"></a>
    <a href="https://www.hackerrank.com/rachitJaiGupta?hr_r=1" class="pics"><img src="pics/hackerrank.svg" height="36vh"></a>
      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rachitgupta55555@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
-  
+  <a href="https://www.codechef.com/users/rachit_gupta5" class="pics"><img src="pics/codechef.svg" height="36vh"></a>
   </div>
 </p>
