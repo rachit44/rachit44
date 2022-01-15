@@ -2,7 +2,7 @@
 I am a codderr and here I am doing lots of cool projects.
 
 - 🔭 I’m currently Undergraduate
-- 🌱 Machine Learning Enthusiastic
+- 🌱 Machine Learning Enthusiast
 - 📫 You can reach me at : rachitgupta55555@gmail.com
 - ⚡ Fun fact: I have Python
 
