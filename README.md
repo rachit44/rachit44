@@ -4,12 +4,14 @@
 I am just a coder and turning myself to developer by doing projects.
 
 - 🔭 Currently Undergraduate
-- 🌱 Machine Learning Enthusiast
-- 🤵 Skilled in Python, Django, HTML, CSS
+- 🌱 <strong>Machine Learning</strong> Enthusiast
+- 🤵 Skilled in <strong>Python, Django, HTML, CSS</strong>
 - 🤴 Having good problem solving
-- 📫 You can reach me at : rachitgupta55555@gmail.com
-- ⚡ Fun fact: I have 🐍Python
-
+- 📫 You can reach me at : <strong>rachitgupta55555@gmail.com </strong>
+- ⚡ Fun fact: <strong>I have 🐍Python<strong>
+  
+<a href="https://github.com/rachit44"><img src="https://komarev.com/ghpvc/?username=rachit44&color=dc143c&style=plastic"></a>
+  
 [![Rachit's Github Stats](https://github-readme-stats.vercel.app/api?username=rachit44&hide=issues&count_private=true&show_icons=true&theme=calm)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachit44&layout=compact&theme=calm)](https://github.com/rachit44/github-readme-stats)
