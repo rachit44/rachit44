@@ -1,14 +1,14 @@
 <h4 align="center"> 
   
 <h1 align="center">Hi <img src="pics/Hi.gif" width="29px"/>, I'm Rachit</h1>
-I am just a coder and turnig myself to developer by doing projects.
+I am just a coder and turning myself to developer by doing projects.
 
-- 🔭 I’m currently Undergraduate
+- 🔭 Currently Undergraduate
 - 🌱 Machine Learning Enthusiast
 - 🤵 Skilled in Python, Django, HTML, CSS
 - 🤴 Having good problem solving
 - 📫 You can reach me at : rachitgupta55555@gmail.com
-- ⚡ Fun fact: I have Python
+- ⚡ Fun fact: I have 🐍Python
 
 [![Rachit's Github Stats](https://github-readme-stats.vercel.app/api?username=rachit44&hide=issues&count_private=true&show_icons=true&theme=calm)
 
