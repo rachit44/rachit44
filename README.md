@@ -1,7 +1,7 @@
 <h4 align="center"> 
   
-<h1 align="center">Hi <img src="pics/Hi.gif" width="29px"/>, I'm Rachit Gupta </h1>
-I am a codderr and here I am doing lots of cool projects.
+<h1 align="center">Hi <img src="pics/Hi.gif" width="29px"/>, I'm Rachit</h1>
+I am just a coder and turnig myself to developer by doing projects.
 
 - 🔭 I’m currently Undergraduate
 - 🌱 Machine Learning Enthusiast
