@@ -5,7 +5,7 @@ I am just a coder and turning myself to developer by doing projects.
 
 - 🔭 Currently Undergraduate
 - 🌱 <strong>Machine Learning</strong> Enthusiast
-- 🤵 Skilled in <strong>Python, Django, HTML, CSS</strong>
+- 🤵 Skilled in <strong>Python, Django, SQL, HTML, CSS</strong>
 - 🤴 Having good problem solving
 - 📫 You can reach me at : <strong>rachitgupta55555@gmail.com </strong>
 - ⚡ Fun fact: <strong>I have 🐍Python<strong>
