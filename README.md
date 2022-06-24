@@ -1,6 +1,6 @@
 <h4 align="center"> 
   
-<h1 align="center">Hi <img src="pics/Hi.gif" width="29px"/>, I'm Rachit</h1>
+<h1 align="center">Hi <img src="pics/Hi.gif" width="29px" height="50px"/>, I'm Rachit</h1>
 I am just a coder and turning myself to developer by doing projects.
 
 - 🔭 Currently Undergraduate
@@ -16,7 +16,7 @@ I am just a coder and turning myself to developer by doing projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachit44&layout=compact&theme=calm)](https://github.com/rachit44/github-readme-stats)
 
-## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
+## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="20px"></h3>
 
 <p align="left">
 <div class="footer" id="top3">
