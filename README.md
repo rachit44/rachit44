@@ -25,7 +25,7 @@ I am just a coder and turning myself to developer by doing projects.
    <a href="https://github.com/rachit44" class="pics"> <img src="pics/github.svg" height="36vh"></a>&nbsp;
     <a href="https://twitter.com/RachitG76092361" class="pics"><img src="pics/twitter.svg" height="36vh"></a>&nbsp;
     <a href="https://www.instagram.com/rachitgupta__/" class="pics"><img src="pics/instagram.svg" height="36vh"></a>&nbsp;
-  <a href="https://codeforces.com/profile/rachit96" class="pics"><img src="pics/codeforces.svg" height="36vh" width="20vh"></a>&nbsp;
+  <a href="https://codeforces.com/profile/rachit96" class="pics"><img src="pics/codeforces.svg" height="30vh"></a>&nbsp;
    <a href="https://www.hackerrank.com/rachitJaiGupta?hr_r=1" class="pics"><img src="pics/hackerrank.svg" height="36vh"></a>&nbsp;
      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rachitgupta55555@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>&nbsp;
   <a href="https://www.codechef.com/users/rachit_gupta5" class="pics"><img src="pics/codechef.svg" height="36vh"></a>&nbsp;
