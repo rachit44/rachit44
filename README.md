@@ -1,14 +1,14 @@
 <h4 align="center"> 
   
 <h1 align="center">Hi <img src="pics/Hi.gif" width="29px" height="50px"/>, I'm Rachit</h1>
-I am just a coder and turning myself to developer by doing projects.
+Turning myself to developer.
 
-- 🔭 Currently Undergraduate
+- 🔭 IT Professional working as a Software Engineer (Optimistic)
 - 🌱 <strong>Machine Learning</strong> Enthusiast
-- 🤵 Skilled in <strong>Python, Django, SQL, HTML, CSS</strong>
-- 🤴 Having good problem solving
+- 🤵 Skilled in <strong>JAVA, Spring Boot, Python, Django, SQL, HTML, CSS</strong>
+- 🤴 Good problem solving
 - 📫 You can reach me at : <strong>rachitgupta55555@gmail.com </strong>
-- ⚡ Fun fact: <strong>I have 🐍Python<strong>
+- ⚡ Fun fact: <strong>I have crush on 🐍Python<strong>
   
 <a href="https://github.com/rachit44"><img src="https://komarev.com/ghpvc/?username=rachit44&color=dc143c&style=plastic"></a>
   
