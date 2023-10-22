@@ -1,6 +1,6 @@
 <h4 align="center"> 
   
-<h1 align="center">Hi <img src="pics/Hi.gif" width="29px" height="50px"/>, I'm Rachit</h1>
+<h1 align="center">Hi <img src="pics/Hi.gif" width="29px" height="50px"/>, I'm Rachit <img src="pics/smiling" width="29px" height="50px"/></h1>
 Turning myself to developer.
 
 - 🔭 IT Professional working as a Software Engineer (Optimistic)
