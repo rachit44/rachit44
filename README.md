@@ -22,7 +22,7 @@ Turning myself to developer.
 <div class="footer" id="top3">
   <center> 
    <a href="https://www.linkedin.com/in/rachit-gupta-477b3611b/" class="pics"><img src="pics/linkedin.svg" height="36vh"></a>&nbsp;
-   <a href="https://github.com/rachit44" class="pics"> <img src="pics/github.svg" height="36vh"></a>&nbsp;
+   <a href="https://github.com/rachit44" class="pics"> <img src="pics/git.gif" height="36vh"></a>&nbsp;
     <a href="https://twitter.com/RachitG76092361" class="pics"><img src="pics/twitter.svg" height="36vh"></a>&nbsp;
     <a href="https://www.instagram.com/rachitgupta__/" class="pics"><img src="pics/instagram.svg" height="36vh"></a>&nbsp;
   <a href="https://codeforces.com/profile/rachit96" class="pics"><img src="pics/codeforces.svg" height="30vh"></a>&nbsp;
