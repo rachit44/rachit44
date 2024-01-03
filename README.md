@@ -14,7 +14,7 @@ Turning myself to developer.
   
 [![Rachit's Github Stats](https://github-readme-stats.vercel.app/api?username=rachit44&hide=issues&count_private=true&show_icons=true&theme=calm)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachit44&layout=compact&theme=calm)](https://github.com/rachit44/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachit44&layout=compact&theme=calm)(https://github.com/rachit44/github-readme-stats)
 
 <p align="left">
 <div class="footer" id="top3">
