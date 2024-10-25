@@ -3,9 +3,9 @@
 <h1 align="center">Hi <img src="pics/Hi.gif" width="29px" height="50px"/>, I'm Rachit <img src="pics/smiling.gif" width="29px" height="50px"/></h1>
 Turning myself to developer.
 
-- 🔭 IT Professional working as a Software Engineer (Optimistic)
+- 🔭 Another Software Engineer (Optimistic)
 - 🌱 <strong>Machine Learning</strong> Enthusiast
-- 🤵 Skilled in <strong>JAVA, Spring Boot, Python, Django, SQL, HTML, CSS</strong>
+- 🤵 Skilled in <strong>Python, Django, Ruby, RoR, ORM, SQL, HTML, CSS</strong>
 - 🤴 Good problem solving
 - 📫 You can reach me at : <strong>rachitgupta55555@gmail.com </strong>
 - ⚡ Fun fact: <strong>I have crush on 🐍Python<strong>
