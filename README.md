@@ -20,6 +20,6 @@ Turning myself to developer.
    <a href="https://www.linkedin.com/in/rachit-gupta-477b3611b/" class="pics"><img src="pics/linkedin.svg" height="36vh"></a>&nbsp;&nbsp;
    <a href="https://www.hackerrank.com/rachitJaiGupta?hr_r=1" class="pics"><img src="pics/hackerrank.svg" height="36vh"></a>&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rachitgupta55555@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/rachit44" class="pics"><img src="pics/leetcode.svg" height=36vh"></a>
+  <a href="https://leetcode.com/u/rachit44" class="pics"><img src="pics/leetcode.webp" height=36vh"></a>
   </div>
 </p>
