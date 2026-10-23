@@ -3,10 +3,10 @@
 <h1 align="center">Hi <img src="pics/Hi.gif" width="29px" height="50px"/>, I'm Rachit <img src="pics/smiling.gif" width="29px" height="50px"/></h1>
 Turning myself to developer.
 
-- 🔭 Another Software Engineer (Optimistic)
+- 🔭 Software Engineer
 - 🌱 <strong>Machine Learning</strong> Enthusiast
 - 🤵 Skilled in <strong>Python, Django, Ruby, RoR, ORM, SQL, HTML, CSS</strong>
-- 🤴 Good problem solving
+- 🤴 Good problem solver
 - 📫 You can reach me at : <strong>rachitgupta55555@gmail.com </strong>
 - ⚡ Fun fact: <strong>I have crush on 🐍Python<strong>
   
